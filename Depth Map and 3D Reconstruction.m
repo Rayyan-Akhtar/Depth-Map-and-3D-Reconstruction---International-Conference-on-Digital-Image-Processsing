@@ -1,4 +1,4 @@
-% This code is copyright to the authors Mohd. Rayyan Akhtar from South China University of Technology.
+% This code is copyright to the authors Mohd. Rayyan Akhtar, Huabiao Qin and Guancheng Chen from South China University of Technology.
 % Department of Information and Communication Engineering
 
 clc; clear; close all;
